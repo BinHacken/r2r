@@ -73,7 +73,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"..\/cube_introduction.mp3"
+                 "value":"cube_introduction.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
