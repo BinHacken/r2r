@@ -127,7 +127,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"k.json"
+                 "value":"w.json"
                 }],
          "type":"tilelayer",
          "visible":true,
