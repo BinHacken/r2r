@@ -44,7 +44,7 @@
          "height":50,
          "id":35,
          "name":"start",
-         "opacity":0,
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":57,
@@ -61,7 +61,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"main.json"
+                 "value":"map2.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -79,7 +79,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"main.json"
+                 "value":"map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
