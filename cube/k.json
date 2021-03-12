@@ -145,7 +145,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/map.json"
+                 "value":"..\/main.json#start_cube"
                 }],
          "type":"tilelayer",
          "visible":true,
