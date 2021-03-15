@@ -8,8 +8,12 @@ floortileset: license unknown, distributed with the workadventure starterkit
 food_and-drinks_cert: CC-BY-SA von CERT (cert.ccc.de) (*)
 mapUtilities: license unknows, from rc3
 misc: CC-BY-SA von CERT (cert.ccc.de) (*)
+rc3_mullana_floor-wall: Mullana, published under CC0
+rc3_mullana_functionary: Mullana, published under CC0
 rc3_mullana_neon-signs: Mullana, published under CC0
 rc3_mullana_objects: Mullana, published under CC0
+rc3_mullana_overlay: Mullana, published under CC0
+rc3_mullana_stars: Mullana, published under CC0
 tilesets_deviaant_milkian_1 (ofice_1): deviantart.com/milkian, license unknown, distributed with the workadventure starterkit
 
 
