@@ -6,6 +6,7 @@ doors: CC-BY-SA von CERT (cert.ccc.de) (*)
 dungeon: https://opengameart.org/content/dungeon-tileset-4, Public Domain
 floortileset: license unknown, distributed with the workadventure starterkit
 food_and-drinks_cert: CC-BY-SA von CERT (cert.ccc.de) (*)
+magecity_by_hyptosis: https://opengameart.org/content/mage-city-arcanos, public domain
 mapUtilities: license unknows, from rc3
 misc: CC-BY-SA von CERT (cert.ccc.de) (*)
 rc3_mullana_floor-wall: Mullana, published under CC0
