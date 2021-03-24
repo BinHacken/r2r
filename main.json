@@ -349,7 +349,7 @@
          "height":87,
          "id":14,
          "name":"block",
-         "opacity":0.66,
+         "opacity":0,
          "type":"tilelayer",
          "visible":true,
          "width":165,
