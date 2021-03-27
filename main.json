@@ -156,7 +156,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"one\/chaotischInkorrekt\/gh-pages\/map.json \t\/_\/global\/c0c0bird.codeberg.page\/main.json"
+                 "value":"\/_\/global\/c0c0bird.codeberg.page\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
