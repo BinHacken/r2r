@@ -157,6 +157,11 @@
                  "name":"getBadge",
                  "type":"string",
                  "value":"I went to space with the chicken!"
+                }, 
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"spacehuhnbadge.html"
                 }],
          "type":"tilelayer",
          "visible":true,
