@@ -156,7 +156,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/_\/global\/c0c0bird.codeberg.page\/main.json"
+                 "value":"\/_\/global\/c0c0bird.codeberg.page\/main.json#start_binhacken"
                 }],
          "type":"tilelayer",
          "visible":true,
