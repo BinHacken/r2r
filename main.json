@@ -169,7 +169,7 @@
          "height":87,
          "id":34,
          "name":"cube_leaderboard",
-         "opacity":0.35,
+         "opacity":0,
          "properties":[
                 {
                  "name":"openWebsite",
