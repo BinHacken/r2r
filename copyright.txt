@@ -10,6 +10,7 @@ food_and-drinks_cert: CC-BY-SA von CERT (cert.ccc.de) (*)
 magecity_by_hyptosis: https://opengameart.org/content/mage-city-arcanos, public domain
 mapUtilities: license unknows, from rc3
 misc: CC-BY-SA von CERT (cert.ccc.de) (*)
+pipo: https://pipoya.itch.io/pipoya-rpg-tileset-32x32, For commercial or personal use, use and edit freely, not redistribute or resell this assets, it can be used for game development and other productions.
 rc3_mullana_floor-wall: Mullana, published under CC0
 rc3_mullana_functionary: Mullana, published under CC0
 rc3_mullana_neon-signs: Mullana, published under CC0
